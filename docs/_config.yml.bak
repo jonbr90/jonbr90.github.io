@@ -22,8 +22,9 @@ title: Brunsted
 email: info@brunsted.is
 description: >- # this means to ignore newlines until "baseurl:"
   Brunsted
+domain: jonbr90.github.io
 baseurl: "/brunsted" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonbr90.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jonbr90
 
